@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-19T13:29:57 IST" name="Suite" finished-at="2024-02-19T13:31:22 IST" duration-ms="85112">
+    <groups>
+    </groups>
+    <test started-at="2024-02-19T13:29:57 IST" name="ChromeTest" finished-at="2024-02-19T13:30:33 IST" duration-ms="36476">
+      <class name="com.saucedemo.TestPack.TC01_VerifyLoginFunctioality">
+        <test-method is-config="true" signature="preMethod(java.lang.String)[pri:0, instance:com.saucedemo.TestPack.TC01_VerifyLoginFunctioality@3349e9bb]" started-at="2024-02-19T13:29:57 IST" name="preMethod" finished-at="2024-02-19T13:30:15 IST" duration-ms="18461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preMethod -->
+        <test-method signature="VerifyLoginFunctioality()[pri:0, instance:com.saucedemo.TestPack.TC01_VerifyLoginFunctioality@3349e9bb]" started-at="2024-02-19T13:30:15 IST" name="VerifyLoginFunctioality" finished-at="2024-02-19T13:30:28 IST" duration-ms="12344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginFunctioality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TestPack.TC01_VerifyLoginFunctioality@3349e9bb]" started-at="2024-02-19T13:30:28 IST" name="tearDown" finished-at="2024-02-19T13:30:29 IST" duration-ms="1361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TestPack.TC01_VerifyLoginFunctioality -->
+      <class name="com.saucedemo.TestPack.TC03_VerifyProductAddTOCart">
+        <test-method is-config="true" signature="preMethod(java.lang.String)[pri:0, instance:com.saucedemo.TestPack.TC03_VerifyProductAddTOCart@38d8f54a]" started-at="2024-02-19T13:29:57 IST" name="preMethod" finished-at="2024-02-19T13:30:16 IST" duration-ms="18573" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preMethod -->
+        <test-method signature="VerifyProductAddTOCart()[pri:0, instance:com.saucedemo.TestPack.TC03_VerifyProductAddTOCart@38d8f54a]" started-at="2024-02-19T13:30:16 IST" name="VerifyProductAddTOCart" finished-at="2024-02-19T13:30:25 IST" duration-ms="9294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProductAddTOCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TestPack.TC03_VerifyProductAddTOCart@38d8f54a]" started-at="2024-02-19T13:30:25 IST" name="tearDown" finished-at="2024-02-19T13:30:25 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TestPack.TC03_VerifyProductAddTOCart -->
+      <class name="com.saucedemo.TestPack.TC04_VerifyAllProductAddToCart">
+        <test-method is-config="true" signature="preMethod(java.lang.String)[pri:0, instance:com.saucedemo.TestPack.TC04_VerifyAllProductAddToCart@49e53c76]" started-at="2024-02-19T13:29:57 IST" name="preMethod" finished-at="2024-02-19T13:30:16 IST" duration-ms="18532" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preMethod -->
+        <test-method signature="VerifyAllProductAddToCart()[pri:0, instance:com.saucedemo.TestPack.TC04_VerifyAllProductAddToCart@49e53c76]" started-at="2024-02-19T13:30:16 IST" name="VerifyAllProductAddToCart" finished-at="2024-02-19T13:30:33 IST" duration-ms="17644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAllProductAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TestPack.TC04_VerifyAllProductAddToCart@49e53c76]" started-at="2024-02-19T13:30:33 IST" name="tearDown" finished-at="2024-02-19T13:30:33 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TestPack.TC04_VerifyAllProductAddToCart -->
+      <class name="com.saucedemo.TestPack.TC02_VerifyClickOnProductFunctioality">
+        <test-method is-config="true" signature="preMethod(java.lang.String)[pri:0, instance:com.saucedemo.TestPack.TC02_VerifyClickOnProductFunctioality@409bf450]" started-at="2024-02-19T13:29:57 IST" name="preMethod" finished-at="2024-02-19T13:30:15 IST" duration-ms="18461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preMethod -->
+        <test-method signature="verifyClickOnProductFunctioality()[pri:0, instance:com.saucedemo.TestPack.TC02_VerifyClickOnProductFunctioality@409bf450]" started-at="2024-02-19T13:30:15 IST" name="verifyClickOnProductFunctioality" finished-at="2024-02-19T13:30:30 IST" duration-ms="14812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickOnProductFunctioality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TestPack.TC02_VerifyClickOnProductFunctioality@409bf450]" started-at="2024-02-19T13:30:30 IST" name="tearDown" finished-at="2024-02-19T13:30:31 IST" duration-ms="678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TestPack.TC02_VerifyClickOnProductFunctioality -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2024-02-19T13:30:33 IST" name="FirefoxTest" finished-at="2024-02-19T13:31:22 IST" duration-ms="48557">
+      <class name="com.saucedemo.TestPack.TC08_VerifyLogoutFunctionality">
+        <test-method is-config="true" signature="preMethod(java.lang.String)[pri:0, instance:com.saucedemo.TestPack.TC08_VerifyLogoutFunctionality@175c2241]" started-at="2024-02-19T13:30:34 IST" name="preMethod" finished-at="2024-02-19T13:30:54 IST" duration-ms="20705" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preMethod -->
+        <test-method signature="verifyLogoutFunctionality()[pri:0, instance:com.saucedemo.TestPack.TC08_VerifyLogoutFunctionality@175c2241]" started-at="2024-02-19T13:30:54 IST" name="verifyLogoutFunctionality" finished-at="2024-02-19T13:31:04 IST" duration-ms="9347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoutFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TestPack.TC08_VerifyLogoutFunctionality@175c2241]" started-at="2024-02-19T13:31:04 IST" name="tearDown" finished-at="2024-02-19T13:31:05 IST" duration-ms="1827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TestPack.TC08_VerifyLogoutFunctionality -->
+      <class name="com.saucedemo.TestPack.TC07_VerifyAboutFunctionality">
+        <test-method is-config="true" signature="preMethod(java.lang.String)[pri:0, instance:com.saucedemo.TestPack.TC07_VerifyAboutFunctionality@5b7a5baa]" started-at="2024-02-19T13:30:34 IST" name="preMethod" finished-at="2024-02-19T13:30:54 IST" duration-ms="20527" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preMethod -->
+        <test-method signature="verifyAboutFunctionality()[pri:0, instance:com.saucedemo.TestPack.TC07_VerifyAboutFunctionality@5b7a5baa]" started-at="2024-02-19T13:30:54 IST" name="verifyAboutFunctionality" finished-at="2024-02-19T13:31:15 IST" duration-ms="20776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAboutFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TestPack.TC07_VerifyAboutFunctionality@5b7a5baa]" started-at="2024-02-19T13:31:15 IST" name="tearDown" finished-at="2024-02-19T13:31:16 IST" duration-ms="1611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TestPack.TC07_VerifyAboutFunctionality -->
+      <class name="com.saucedemo.TestPack.TC05_VerifyEndToEndFuntionality">
+        <test-method is-config="true" signature="preMethod(java.lang.String)[pri:0, instance:com.saucedemo.TestPack.TC05_VerifyEndToEndFuntionality@7c7a06ec]" started-at="2024-02-19T13:30:34 IST" name="preMethod" finished-at="2024-02-19T13:30:54 IST" duration-ms="20568" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preMethod -->
+        <test-method signature="VerifyEndToEndFuntionality()[pri:0, instance:com.saucedemo.TestPack.TC05_VerifyEndToEndFuntionality@7c7a06ec]" started-at="2024-02-19T13:30:54 IST" name="VerifyEndToEndFuntionality" finished-at="2024-02-19T13:31:21 IST" duration-ms="26996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEndToEndFuntionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TestPack.TC05_VerifyEndToEndFuntionality@7c7a06ec]" started-at="2024-02-19T13:31:21 IST" name="tearDown" finished-at="2024-02-19T13:31:22 IST" duration-ms="985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TestPack.TC05_VerifyEndToEndFuntionality -->
+      <class name="com.saucedemo.TestPack.TC06_VerifyFilterFunctionality">
+        <test-method is-config="true" signature="preMethod(java.lang.String)[pri:0, instance:com.saucedemo.TestPack.TC06_VerifyFilterFunctionality@5bf0d49]" started-at="2024-02-19T13:30:34 IST" name="preMethod" finished-at="2024-02-19T13:30:54 IST" duration-ms="20374" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preMethod -->
+        <test-method signature="VerifyFilterFunctionality()[pri:0, instance:com.saucedemo.TestPack.TC06_VerifyFilterFunctionality@5bf0d49]" started-at="2024-02-19T13:30:54 IST" name="VerifyFilterFunctionality" finished-at="2024-02-19T13:31:02 IST" duration-ms="7861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFilterFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TestPack.TC06_VerifyFilterFunctionality@5bf0d49]" started-at="2024-02-19T13:31:02 IST" name="tearDown" finished-at="2024-02-19T13:31:03 IST" duration-ms="1503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TestPack.TC06_VerifyFilterFunctionality -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>
