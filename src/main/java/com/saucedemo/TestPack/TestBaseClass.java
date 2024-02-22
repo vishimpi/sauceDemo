@@ -29,18 +29,12 @@ public void preMethod(String browserName) throws InterruptedException, IOExcepti
 	
 	if(browserName.equals("chrome"))
 	{
-	System.setProperty("webdriver.chrome.driver", 
-	"V:\\Driver&libraries\\chromedriver-win64\\chromedriver.exe");
-	
-	driver = new ChromeDriver();
+    driver = new ChromeDriver();
 	log.info("Browser is opened");
 	Thread.sleep(2000);
 	}
 	else if(browserName.equals("firefox"))
 	{
-	 System.setProperty("Webdriver.gecko.drive", 
-	"V:\\Driver&libraries\\GeckoDriver\\geckodriver.exe");
-	
 	driver = new FirefoxDriver();
 	log.info("Browser is opened");
 	Thread.sleep(2000);

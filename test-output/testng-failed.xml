@@ -1,68 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" parallel="classes" name="HighPTest(failed)">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.saucedemo.TestPack.TC04_VerifyAllProductAddToCart">
+      <class name="com.saucedemo.TestPack.TpClass">
         <methods>
-          <include name="VerifyAllProductAddToCart"/>
-          <include name="preMethod"/>
-          <include name="tearDown"/>
+          <include name="googletest"/>
         </methods>
-      </class> <!-- com.saucedemo.TestPack.TC04_VerifyAllProductAddToCart -->
-      <class name="com.saucedemo.TestPack.TC03_VerifyProductAddTOCart">
-        <methods>
-          <include name="VerifyProductAddTOCart"/>
-          <include name="preMethod"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.saucedemo.TestPack.TC03_VerifyProductAddTOCart -->
-      <class name="com.saucedemo.TestPack.TC01_VerifyLoginFunctioality">
-        <methods>
-          <include name="preMethod"/>
-          <include name="tearDown"/>
-          <include name="VerifyLoginFunctioality"/>
-        </methods>
-      </class> <!-- com.saucedemo.TestPack.TC01_VerifyLoginFunctioality -->
-      <class name="com.saucedemo.TestPack.TC02_VerifyClickOnProductFunctioality">
-        <methods>
-          <include name="preMethod"/>
-          <include name="tearDown"/>
-          <include name="verifyClickOnProductFunctioality"/>
-        </methods>
-      </class> <!-- com.saucedemo.TestPack.TC02_VerifyClickOnProductFunctioality -->
+      </class> <!-- com.saucedemo.TestPack.TpClass -->
     </classes>
-  </test> <!-- HighPTest(failed) -->
-  <test thread-count="5" parallel="classes" name="LowPTest(failed)">
-    <classes>
-      <class name="com.saucedemo.TestPack.TC06_VerifyFilterFunctionality">
-        <methods>
-          <include name="preMethod"/>
-          <include name="VerifyFilterFunctionality"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.saucedemo.TestPack.TC06_VerifyFilterFunctionality -->
-      <class name="com.saucedemo.TestPack.TC07_VerifyAboutFunctionality">
-        <methods>
-          <include name="verifyAboutFunctionality"/>
-          <include name="preMethod"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.saucedemo.TestPack.TC07_VerifyAboutFunctionality -->
-      <class name="com.saucedemo.TestPack.TC08_VerifyLogoutFunctionality">
-        <methods>
-          <include name="preMethod"/>
-          <include name="tearDown"/>
-          <include name="verifyLogoutFunctionality"/>
-        </methods>
-      </class> <!-- com.saucedemo.TestPack.TC08_VerifyLogoutFunctionality -->
-      <class name="com.saucedemo.TestPack.TC05_VerifyEndToEndFuntionality">
-        <methods>
-          <include name="VerifyEndToEndFuntionality"/>
-          <include name="preMethod"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.saucedemo.TestPack.TC05_VerifyEndToEndFuntionality -->
-    </classes>
-  </test> <!-- LowPTest(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
