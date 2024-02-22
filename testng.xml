@@ -2,6 +2,8 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test thread-count="5" parallel="classes" name="HighPTest">
+	  	  <parameter name="browserName" value="chrome"></parameter>
+
     <classes>
       <class name="com.saucedemo.TestPack.TestBaseClass"/>
       <class name="com.saucedemo.TestPack.TC01_VerifyLoginFunctioality"/>
@@ -11,6 +13,8 @@
     </classes>
      </test>
       <test thread-count="5" parallel="classes" name="LowPTest">
+		  	  <parameter name="browserName" value="chrome"></parameter>
+
     <classes>
       <class name="com.saucedemo.TestPack.TC05_VerifyEndToEndFuntionality"/>
       <class name="com.saucedemo.TestPack.TC06_VerifyFilterFunctionality"/>
