@@ -1315,3 +1315,475 @@
 2024-02-23 16:06:26,466  INFO [TestNG-test-LowPTest-3] SauceDemo1:67 - End of Script
 2024-02-23 16:06:26,472  INFO [TestNG-test-LowPTest-1] SauceDemo1:66 - browser is closed
 2024-02-23 16:06:26,472  INFO [TestNG-test-LowPTest-1] SauceDemo1:67 - End of Script
+2024-02-28 12:24:30,165  INFO [TestNG-test-HighPTest-3] SauceDemo1:48 - Browser is maximized
+2024-02-28 12:24:30,174  INFO [TestNG-test-HighPTest-4] SauceDemo1:48 - Browser is maximized
+2024-02-28 12:24:30,167  INFO [TestNG-test-HighPTest-2] SauceDemo1:48 - Browser is maximized
+2024-02-28 12:24:30,179  INFO [TestNG-test-HighPTest-1] SauceDemo1:48 - Browser is maximized
+2024-02-28 12:24:32,766  INFO [TestNG-test-HighPTest-3] SauceDemo1:53 - Url is opened
+2024-02-28 12:24:37,386  INFO [TestNG-test-HighPTest-4] SauceDemo1:53 - Url is opened
+2024-02-28 12:24:37,386  INFO [TestNG-test-HighPTest-2] SauceDemo1:53 - Url is opened
+2024-02-28 12:24:37,398  INFO [TestNG-test-HighPTest-1] SauceDemo1:53 - Url is opened
+2024-02-28 12:24:37,997  INFO [TestNG-test-HighPTest-3] SauceDemo1:56 - Loginpage snap taken
+2024-02-28 12:24:39,122  INFO [TestNG-test-HighPTest-3] SauceDemo1:18 - Usernme Entered
+2024-02-28 12:24:39,573  INFO [TestNG-test-HighPTest-4] SauceDemo1:56 - Loginpage snap taken
+2024-02-28 12:24:39,581  INFO [TestNG-test-HighPTest-1] SauceDemo1:56 - Loginpage snap taken
+2024-02-28 12:24:39,589  INFO [TestNG-test-HighPTest-2] SauceDemo1:56 - Loginpage snap taken
+2024-02-28 12:24:39,797  INFO [TestNG-test-HighPTest-4] SauceDemo1:20 - Usernme Entered
+2024-02-28 12:24:39,811  INFO [TestNG-test-HighPTest-2] SauceDemo1:23 - Usernme Entered
+2024-02-28 12:24:39,841  INFO [TestNG-test-HighPTest-1] SauceDemo1:20 - Usernme Entered
+2024-02-28 12:24:40,280  INFO [TestNG-test-HighPTest-3] SauceDemo1:23 - Password Entered
+2024-02-28 12:24:41,548  INFO [TestNG-test-HighPTest-3] SauceDemo1:28 - Clicked on login button
+2024-02-28 12:24:41,967  INFO [TestNG-test-HighPTest-4] SauceDemo1:25 - Password Entered
+2024-02-28 12:24:41,975  INFO [TestNG-test-HighPTest-2] SauceDemo1:28 - Password Entered
+2024-02-28 12:24:42,047  INFO [TestNG-test-HighPTest-1] SauceDemo1:25 - Password Entered
+2024-02-28 12:24:42,560  INFO [TestNG-test-HighPTest-3] SauceDemo1:31 - Went on homepage
+2024-02-28 12:24:42,722  INFO [TestNG-test-HighPTest-3] SauceDemo1:36 - Bag product is selected
+2024-02-28 12:24:42,910  INFO [TestNG-test-HighPTest-3] SauceDemo1:39 - Product added to cart
+2024-02-28 12:24:42,910  INFO [TestNG-test-HighPTest-3] SauceDemo1:41 - Apply validation
+2024-02-28 12:24:43,338  INFO [TestNG-test-HighPTest-3] SauceDemo1:66 - browser is closed
+2024-02-28 12:24:43,338  INFO [TestNG-test-HighPTest-3] SauceDemo1:67 - End of Script
+2024-02-28 12:24:44,301  INFO [TestNG-test-HighPTest-2] SauceDemo1:33 - Clicked on login button
+2024-02-28 12:24:44,426  INFO [TestNG-test-HighPTest-4] SauceDemo1:30 - Clicked on login button
+2024-02-28 12:24:44,631  INFO [TestNG-test-HighPTest-1] SauceDemo1:30 - Clicked on login button
+2024-02-28 12:24:46,312  INFO [TestNG-test-HighPTest-2] SauceDemo1:36 - Went on homepage
+2024-02-28 12:24:46,437  INFO [TestNG-test-HighPTest-4] SauceDemo1:33 - Went on homepage
+2024-02-28 12:24:46,512  INFO [TestNG-test-HighPTest-2] SauceDemo1:39 - Homepage ScreenShot Taken
+2024-02-28 12:24:46,644  INFO [TestNG-test-HighPTest-1] SauceDemo1:33 - Went on homepage
+2024-02-28 12:24:46,714  INFO [TestNG-test-HighPTest-2] SauceDemo1:46 - bag product clicked
+2024-02-28 12:24:46,954  INFO [TestNG-test-HighPTest-1] SauceDemo1:36 - Homepage ScreenShot Taken
+2024-02-28 12:24:46,955  INFO [TestNG-test-HighPTest-1] SauceDemo1:38 - Apply Validation
+2024-02-28 12:24:46,975  INFO [TestNG-test-HighPTest-1] SauceDemo1:47 - Case Passed
+2024-02-28 12:24:47,047  INFO [TestNG-test-HighPTest-4] SauceDemo1:37 - Multi product added to cart
+2024-02-28 12:24:47,400  INFO [TestNG-test-HighPTest-1] SauceDemo1:66 - browser is closed
+2024-02-28 12:24:47,401  INFO [TestNG-test-HighPTest-1] SauceDemo1:67 - End of Script
+2024-02-28 12:24:48,890  INFO [TestNG-test-HighPTest-2] SauceDemo1:50 - Product Page Snap Taken
+2024-02-28 12:24:48,891  INFO [TestNG-test-HighPTest-2] SauceDemo1:52 - Apply Verfication
+2024-02-28 12:24:48,963  INFO [TestNG-test-HighPTest-2] SauceDemo1:64 - TC02 is passed
+2024-02-28 12:24:50,618  INFO [TestNG-test-HighPTest-2] SauceDemo1:66 - browser is closed
+2024-02-28 12:24:50,619  INFO [TestNG-test-HighPTest-2] SauceDemo1:67 - End of Script
+2024-02-28 12:24:51,233  INFO [TestNG-test-HighPTest-4] SauceDemo1:42 - Clicked on cart button
+2024-02-28 12:24:51,355  INFO [TestNG-test-HighPTest-4] SauceDemo1:45 - ScreenShot of Cart taken
+2024-02-28 12:24:51,355  INFO [TestNG-test-HighPTest-4] SauceDemo1:46 - Apply Verification
+2024-02-28 12:24:51,723  INFO [TestNG-test-HighPTest-4] SauceDemo1:66 - browser is closed
+2024-02-28 12:24:51,723  INFO [TestNG-test-HighPTest-4] SauceDemo1:67 - End of Script
+2024-02-28 12:24:56,311  INFO [TestNG-test-LowPTest-4] SauceDemo1:33 - Browser is opened
+2024-02-28 12:24:56,367  INFO [TestNG-test-LowPTest-2] SauceDemo1:33 - Browser is opened
+2024-02-28 12:24:56,382  INFO [TestNG-test-LowPTest-3] SauceDemo1:33 - Browser is opened
+2024-02-28 12:24:56,391  INFO [TestNG-test-LowPTest-1] SauceDemo1:33 - Browser is opened
+2024-02-28 12:24:58,683  INFO [TestNG-test-LowPTest-2] SauceDemo1:48 - Browser is maximized
+2024-02-28 12:24:58,814  INFO [TestNG-test-LowPTest-4] SauceDemo1:48 - Browser is maximized
+2024-02-28 12:24:58,847  INFO [TestNG-test-LowPTest-3] SauceDemo1:48 - Browser is maximized
+2024-02-28 12:24:58,891  INFO [TestNG-test-LowPTest-1] SauceDemo1:48 - Browser is maximized
+2024-02-28 12:25:05,191  INFO [TestNG-test-LowPTest-2] SauceDemo1:53 - Url is opened
+2024-02-28 12:25:05,191  INFO [TestNG-test-LowPTest-3] SauceDemo1:53 - Url is opened
+2024-02-28 12:25:05,193  INFO [TestNG-test-LowPTest-4] SauceDemo1:53 - Url is opened
+2024-02-28 12:25:05,194  INFO [TestNG-test-LowPTest-1] SauceDemo1:53 - Url is opened
+2024-02-28 12:25:07,592  INFO [TestNG-test-LowPTest-2] SauceDemo1:56 - Loginpage snap taken
+2024-02-28 12:25:07,594  INFO [TestNG-test-LowPTest-3] SauceDemo1:56 - Loginpage snap taken
+2024-02-28 12:25:07,596  INFO [TestNG-test-LowPTest-1] SauceDemo1:56 - Loginpage snap taken
+2024-02-28 12:25:07,600  INFO [TestNG-test-LowPTest-4] SauceDemo1:56 - Loginpage snap taken
+2024-02-28 12:25:07,809  INFO [TestNG-test-LowPTest-3] SauceDemo1:20 - Usernme Entered
+2024-02-28 12:25:07,885  INFO [TestNG-test-LowPTest-1] SauceDemo1:24 - Usernme Entered
+2024-02-28 12:25:07,894  INFO [TestNG-test-LowPTest-4] SauceDemo1:17 - Usernme Entered
+2024-02-28 12:25:08,869  INFO [TestNG-test-LowPTest-2] SauceDemo1:18 - Usernme Entered
+2024-02-28 12:25:09,906  INFO [TestNG-test-LowPTest-3] SauceDemo1:25 - Password Entered
+2024-02-28 12:25:10,034  INFO [TestNG-test-LowPTest-4] SauceDemo1:22 - Password Entered
+2024-02-28 12:25:10,042  INFO [TestNG-test-LowPTest-1] SauceDemo1:29 - Password Entered
+2024-02-28 12:25:10,976  INFO [TestNG-test-LowPTest-2] SauceDemo1:23 - Password Entered
+2024-02-28 12:25:12,107  INFO [TestNG-test-LowPTest-3] SauceDemo1:30 - Clicked on login button
+2024-02-28 12:25:12,472  INFO [TestNG-test-LowPTest-1] SauceDemo1:34 - Clicked on login button
+2024-02-28 12:25:12,477  INFO [TestNG-test-LowPTest-4] SauceDemo1:27 - Clicked on login button
+2024-02-28 12:25:13,200  INFO [TestNG-test-LowPTest-2] SauceDemo1:28 - Clicked on login button
+2024-02-28 12:25:14,121  INFO [TestNG-test-LowPTest-3] SauceDemo1:33 - Went on homepage
+2024-02-28 12:25:14,314  INFO [TestNG-test-LowPTest-3] SauceDemo1:40 - Clicked on Menu Button
+2024-02-28 12:25:14,484  INFO [TestNG-test-LowPTest-4] SauceDemo1:30 - Went on homepage
+2024-02-28 12:25:14,484  INFO [TestNG-test-LowPTest-1] SauceDemo1:37 - Went on homepage
+2024-02-28 12:25:14,847  INFO [TestNG-test-LowPTest-1] SauceDemo1:45 - Clicked on Bag Product
+2024-02-28 12:25:14,998  INFO [TestNG-test-LowPTest-4] SauceDemo1:37 - Clicked on Menu Button
+2024-02-28 12:25:15,204  INFO [TestNG-test-LowPTest-2] SauceDemo1:31 - Went on homepage
+2024-02-28 12:25:16,078  INFO [TestNG-test-LowPTest-2] SauceDemo1:39 - Clicked on filter DropDown
+2024-02-28 12:25:16,185  INFO [TestNG-test-LowPTest-2] SauceDemo1:42 - Select the specific option
+2024-02-28 12:25:16,186  INFO [TestNG-test-LowPTest-2] SauceDemo1:45 - Apply verification
+2024-02-28 12:25:16,248  INFO [TestNG-test-LowPTest-2] SauceDemo1:54 - Passed
+2024-02-28 12:25:16,961  INFO [TestNG-test-LowPTest-1] SauceDemo1:50 - Clicked on Add to cart button
+2024-02-28 12:25:17,195  INFO [TestNG-test-LowPTest-4] SauceDemo1:41 - clicked on logout Button
+2024-02-28 12:25:17,196  INFO [TestNG-test-LowPTest-4] SauceDemo1:43 - Apply verification
+2024-02-28 12:25:17,223  INFO [TestNG-test-LowPTest-4] SauceDemo1:52 - passed logout functionality
+2024-02-28 12:25:18,354  INFO [TestNG-test-LowPTest-2] SauceDemo1:66 - browser is closed
+2024-02-28 12:25:18,354  INFO [TestNG-test-LowPTest-2] SauceDemo1:67 - End of Script
+2024-02-28 12:25:19,058  INFO [TestNG-test-LowPTest-1] SauceDemo1:55 - Clicked on cart
+2024-02-28 12:25:20,491  INFO [TestNG-test-LowPTest-4] SauceDemo1:66 - browser is closed
+2024-02-28 12:25:20,491  INFO [TestNG-test-LowPTest-4] SauceDemo1:67 - End of Script
+2024-02-28 12:25:21,308  INFO [TestNG-test-LowPTest-1] SauceDemo1:62 - Clicked on checkout button
+2024-02-28 12:25:23,850  INFO [TestNG-test-LowPTest-1] SauceDemo1:69 - FName Entered
+2024-02-28 12:25:26,540  INFO [TestNG-test-LowPTest-1] SauceDemo1:73 - LastName Entered
+2024-02-28 12:25:28,798  INFO [TestNG-test-LowPTest-1] SauceDemo1:77 - Postal code entered
+2024-02-28 12:25:31,926  INFO [TestNG-test-LowPTest-1] SauceDemo1:81 - Clicked on continue button
+2024-02-28 12:25:34,873  INFO [TestNG-test-LowPTest-1] SauceDemo1:89 - Clicked on Finish Button
+2024-02-28 12:25:37,493  INFO [TestNG-test-LowPTest-3] SauceDemo1:44 - Clicked on About Button
+2024-02-28 12:25:37,573  INFO [TestNG-test-LowPTest-1] SauceDemo1:94 - Snap of thank you page taken
+2024-02-28 12:25:37,575  INFO [TestNG-test-LowPTest-1] SauceDemo1:96 - Apply Verification
+2024-02-28 12:25:38,399  INFO [TestNG-test-LowPTest-1] SauceDemo1:105 - passed thank msg
+2024-02-28 12:25:38,920  INFO [TestNG-test-LowPTest-1] SauceDemo1:113 - Back to Home page
+2024-02-28 12:25:38,921  INFO [TestNG-test-LowPTest-1] SauceDemo1:115 - verify that we are back to home
+2024-02-28 12:25:38,963  INFO [TestNG-test-LowPTest-1] SauceDemo1:125 - passed back home page
+2024-02-28 12:25:40,035  INFO [TestNG-test-LowPTest-3] SauceDemo1:48 - Snap of aboutpage is taken
+2024-02-28 12:25:40,037  INFO [TestNG-test-LowPTest-3] SauceDemo1:50 - Apply verification
+2024-02-28 12:25:41,531  INFO [TestNG-test-LowPTest-1] SauceDemo1:66 - browser is closed
+2024-02-28 12:25:41,532  INFO [TestNG-test-LowPTest-1] SauceDemo1:67 - End of Script
+2024-02-28 12:25:42,208  INFO [TestNG-test-LowPTest-3] SauceDemo1:66 - browser is closed
+2024-02-28 12:25:42,209  INFO [TestNG-test-LowPTest-3] SauceDemo1:67 - End of Script
+2024-03-03 12:00:15,478  INFO [TestNG-test=HighPTest-4] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:00:15,513  INFO [TestNG-test=HighPTest-1] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:00:15,546  INFO [TestNG-test=HighPTest-3] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:00:15,609  INFO [TestNG-test=HighPTest-2] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:00:18,227  INFO [TestNG-test=HighPTest-4] SauceDemo1:53 - Url is opened
+2024-03-03 12:00:23,848  INFO [TestNG-test=HighPTest-3] SauceDemo1:53 - Url is opened
+2024-03-03 12:00:23,878  INFO [TestNG-test=HighPTest-1] SauceDemo1:53 - Url is opened
+2024-03-03 12:00:23,929  INFO [TestNG-test=HighPTest-2] SauceDemo1:53 - Url is opened
+2024-03-03 12:00:24,912  INFO [TestNG-test=HighPTest-4] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:00:27,230  INFO [TestNG-test=HighPTest-2] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:00:27,288  INFO [TestNG-test=HighPTest-3] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:00:27,329  INFO [TestNG-test=HighPTest-1] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:00:36,140  INFO [TestNG-test=HighPTest-4] SauceDemo1:20 - Usernme Entered
+2024-03-03 12:00:36,146  INFO [TestNG-test=HighPTest-2] SauceDemo1:23 - Usernme Entered
+2024-03-03 12:00:36,152  INFO [TestNG-test=HighPTest-1] SauceDemo1:20 - Usernme Entered
+2024-03-03 12:00:36,155  INFO [TestNG-test=HighPTest-3] SauceDemo1:18 - Usernme Entered
+2024-03-03 12:00:38,511  INFO [TestNG-test=HighPTest-4] SauceDemo1:25 - Password Entered
+2024-03-03 12:00:38,519  INFO [TestNG-test=HighPTest-1] SauceDemo1:25 - Password Entered
+2024-03-03 12:00:38,524  INFO [TestNG-test=HighPTest-2] SauceDemo1:28 - Password Entered
+2024-03-03 12:00:38,527  INFO [TestNG-test=HighPTest-3] SauceDemo1:23 - Password Entered
+2024-03-03 12:00:39,987  INFO [TestNG-test=HighPTest-3] SauceDemo1:28 - Clicked on login button
+2024-03-03 12:00:41,008  INFO [TestNG-test=HighPTest-3] SauceDemo1:31 - Went on homepage
+2024-03-03 12:00:41,517  INFO [TestNG-test=HighPTest-2] SauceDemo1:33 - Clicked on login button
+2024-03-03 12:00:41,520  INFO [TestNG-test=HighPTest-1] SauceDemo1:30 - Clicked on login button
+2024-03-03 12:00:41,919  INFO [TestNG-test=HighPTest-4] SauceDemo1:30 - Clicked on login button
+2024-03-03 12:00:43,529  INFO [TestNG-test=HighPTest-2] SauceDemo1:36 - Went on homepage
+2024-03-03 12:00:43,529  INFO [TestNG-test=HighPTest-1] SauceDemo1:33 - Went on homepage
+2024-03-03 12:00:43,924  INFO [TestNG-test=HighPTest-4] SauceDemo1:33 - Went on homepage
+2024-03-03 12:00:47,707  INFO [TestNG-test=HighPTest-3] SauceDemo1:36 - Bag product is selected
+2024-03-03 12:00:47,793  INFO [TestNG-test=HighPTest-3] SauceDemo1:39 - Product added to cart
+2024-03-03 12:00:47,794  INFO [TestNG-test=HighPTest-3] SauceDemo1:41 - Apply validation
+2024-03-03 12:00:48,832  INFO [TestNG-test=HighPTest-4] SauceDemo1:37 - Multi product added to cart
+2024-03-03 12:00:49,412  INFO [TestNG-test=HighPTest-1] SauceDemo1:36 - Homepage ScreenShot Taken
+2024-03-03 12:00:49,794  INFO [TestNG-test=HighPTest-1] SauceDemo1:38 - Apply Validation
+2024-03-03 12:00:49,823  INFO [TestNG-test=HighPTest-2] SauceDemo1:39 - Homepage ScreenShot Taken
+2024-03-03 12:00:52,470  INFO [TestNG-test=HighPTest-1] SauceDemo1:47 - Case Passed
+2024-03-03 12:00:52,803  INFO [TestNG-test=HighPTest-2] SauceDemo1:46 - bag product clicked
+2024-03-03 12:00:54,417  INFO [TestNG-test=HighPTest-4] SauceDemo1:42 - Clicked on cart button
+2024-03-03 12:00:54,573  INFO [TestNG-test=HighPTest-4] SauceDemo1:45 - ScreenShot of Cart taken
+2024-03-03 12:00:54,574  INFO [TestNG-test=HighPTest-4] SauceDemo1:46 - Apply Verification
+2024-03-03 12:00:54,842  INFO [TestNG-test=HighPTest-1] SauceDemo1:66 - browser is closed
+2024-03-03 12:00:54,843  INFO [TestNG-test=HighPTest-1] SauceDemo1:67 - End of Script
+2024-03-03 12:00:54,987  INFO [TestNG-test=HighPTest-2] SauceDemo1:50 - Product Page Snap Taken
+2024-03-03 12:00:54,988  INFO [TestNG-test=HighPTest-2] SauceDemo1:52 - Apply Verfication
+2024-03-03 12:00:55,030  INFO [TestNG-test=HighPTest-2] SauceDemo1:64 - TC02 is passed
+2024-03-03 12:00:55,221  INFO [TestNG-test=HighPTest-3] SauceDemo1:66 - browser is closed
+2024-03-03 12:00:55,221  INFO [TestNG-test=HighPTest-3] SauceDemo1:67 - End of Script
+2024-03-03 12:00:55,638  INFO [TestNG-test=HighPTest-4] SauceDemo1:66 - browser is closed
+2024-03-03 12:00:55,638  INFO [TestNG-test=HighPTest-4] SauceDemo1:67 - End of Script
+2024-03-03 12:00:55,712  INFO [TestNG-test=HighPTest-2] SauceDemo1:66 - browser is closed
+2024-03-03 12:00:55,712  INFO [TestNG-test=HighPTest-2] SauceDemo1:67 - End of Script
+2024-03-03 12:01:01,326  INFO [TestNG-test=LowPTest-4] SauceDemo1:33 - Browser is opened
+2024-03-03 12:01:02,106  INFO [TestNG-test=LowPTest-3] SauceDemo1:33 - Browser is opened
+2024-03-03 12:01:02,120  INFO [TestNG-test=LowPTest-1] SauceDemo1:33 - Browser is opened
+2024-03-03 12:01:02,152  INFO [TestNG-test=LowPTest-2] SauceDemo1:33 - Browser is opened
+2024-03-03 12:01:03,465  INFO [TestNG-test=LowPTest-4] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:01:04,377  INFO [TestNG-test=LowPTest-3] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:01:04,455  INFO [TestNG-test=LowPTest-2] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:01:04,473  INFO [TestNG-test=LowPTest-1] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:01:06,942  INFO [TestNG-test=LowPTest-4] SauceDemo1:53 - Url is opened
+2024-03-03 12:01:11,658  INFO [TestNG-test=LowPTest-4] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:01:11,663  INFO [TestNG-test=LowPTest-1] SauceDemo1:53 - Url is opened
+2024-03-03 12:01:11,673  INFO [TestNG-test=LowPTest-3] SauceDemo1:53 - Url is opened
+2024-03-03 12:01:11,675  INFO [TestNG-test=LowPTest-2] SauceDemo1:53 - Url is opened
+2024-03-03 12:01:14,105  INFO [TestNG-test=LowPTest-3] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:01:14,106  INFO [TestNG-test=LowPTest-2] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:01:14,125  INFO [TestNG-test=LowPTest-1] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:01:15,038  INFO [TestNG-test=LowPTest-4] SauceDemo1:17 - Usernme Entered
+2024-03-03 12:01:15,440  INFO [TestNG-test=LowPTest-2] SauceDemo1:18 - Usernme Entered
+2024-03-03 12:01:15,458  INFO [TestNG-test=LowPTest-3] SauceDemo1:20 - Usernme Entered
+2024-03-03 12:01:15,464  INFO [TestNG-test=LowPTest-1] SauceDemo1:24 - Usernme Entered
+2024-03-03 12:01:20,937  INFO [TestNG-test=LowPTest-3] SauceDemo1:25 - Password Entered
+2024-03-03 12:01:20,938  INFO [TestNG-test=LowPTest-2] SauceDemo1:23 - Password Entered
+2024-03-03 12:01:20,940  INFO [TestNG-test=LowPTest-1] SauceDemo1:29 - Password Entered
+2024-03-03 12:01:22,655  INFO [TestNG-test=LowPTest-4] SauceDemo1:22 - Password Entered
+2024-03-03 12:01:25,379  INFO [TestNG-test=LowPTest-2] SauceDemo1:28 - Clicked on login button
+2024-03-03 12:01:25,381  INFO [TestNG-test=LowPTest-1] SauceDemo1:34 - Clicked on login button
+2024-03-03 12:01:25,387  INFO [TestNG-test=LowPTest-3] SauceDemo1:30 - Clicked on login button
+2024-03-03 12:01:25,422  INFO [TestNG-test=LowPTest-4] SauceDemo1:27 - Clicked on login button
+2024-03-03 12:01:27,383  INFO [TestNG-test=LowPTest-2] SauceDemo1:31 - Went on homepage
+2024-03-03 12:01:27,398  INFO [TestNG-test=LowPTest-3] SauceDemo1:33 - Went on homepage
+2024-03-03 12:01:27,398  INFO [TestNG-test=LowPTest-1] SauceDemo1:37 - Went on homepage
+2024-03-03 12:01:27,429  INFO [TestNG-test=LowPTest-4] SauceDemo1:30 - Went on homepage
+2024-03-03 12:01:28,594  INFO [TestNG-test=LowPTest-4] SauceDemo1:37 - Clicked on Menu Button
+2024-03-03 12:01:28,595  INFO [TestNG-test=LowPTest-3] SauceDemo1:40 - Clicked on Menu Button
+2024-03-03 12:01:28,626  INFO [TestNG-test=LowPTest-1] SauceDemo1:45 - Clicked on Bag Product
+2024-03-03 12:01:28,891  INFO [TestNG-test=LowPTest-2] SauceDemo1:39 - Clicked on filter DropDown
+2024-03-03 12:01:28,941  INFO [TestNG-test=LowPTest-2] SauceDemo1:42 - Select the specific option
+2024-03-03 12:01:28,942  INFO [TestNG-test=LowPTest-2] SauceDemo1:45 - Apply verification
+2024-03-03 12:01:28,979  INFO [TestNG-test=LowPTest-2] SauceDemo1:54 - Passed
+2024-03-03 12:01:29,457  INFO [TestNG-test=LowPTest-2] SauceDemo1:66 - browser is closed
+2024-03-03 12:01:29,457  INFO [TestNG-test=LowPTest-2] SauceDemo1:67 - End of Script
+2024-03-03 12:01:30,680  INFO [TestNG-test=LowPTest-4] SauceDemo1:41 - clicked on logout Button
+2024-03-03 12:01:30,680  INFO [TestNG-test=LowPTest-4] SauceDemo1:43 - Apply verification
+2024-03-03 12:01:30,696  INFO [TestNG-test=LowPTest-4] SauceDemo1:52 - passed logout functionality
+2024-03-03 12:01:30,840  INFO [TestNG-test=LowPTest-1] SauceDemo1:50 - Clicked on Add to cart button
+2024-03-03 12:01:32,001  INFO [TestNG-test=LowPTest-4] SauceDemo1:66 - browser is closed
+2024-03-03 12:01:32,001  INFO [TestNG-test=LowPTest-4] SauceDemo1:67 - End of Script
+2024-03-03 12:01:33,128  INFO [TestNG-test=LowPTest-1] SauceDemo1:55 - Clicked on cart
+2024-03-03 12:01:34,750  INFO [TestNG-test=LowPTest-3] SauceDemo1:44 - Clicked on About Button
+2024-03-03 12:01:35,352  INFO [TestNG-test=LowPTest-1] SauceDemo1:62 - Clicked on checkout button
+2024-03-03 12:01:37,486  INFO [TestNG-test=LowPTest-3] SauceDemo1:48 - Snap of aboutpage is taken
+2024-03-03 12:01:37,486  INFO [TestNG-test=LowPTest-3] SauceDemo1:50 - Apply verification
+2024-03-03 12:01:38,213  INFO [TestNG-test=LowPTest-1] SauceDemo1:69 - FName Entered
+2024-03-03 12:01:38,509  INFO [TestNG-test=LowPTest-3] SauceDemo1:66 - browser is closed
+2024-03-03 12:01:38,509  INFO [TestNG-test=LowPTest-3] SauceDemo1:67 - End of Script
+2024-03-03 12:01:40,342  INFO [TestNG-test=LowPTest-1] SauceDemo1:73 - LastName Entered
+2024-03-03 12:01:42,481  INFO [TestNG-test=LowPTest-1] SauceDemo1:77 - Postal code entered
+2024-03-03 12:01:44,663  INFO [TestNG-test=LowPTest-1] SauceDemo1:81 - Clicked on continue button
+2024-03-03 12:01:46,769  INFO [TestNG-test=LowPTest-1] SauceDemo1:89 - Clicked on Finish Button
+2024-03-03 12:01:48,978  INFO [TestNG-test=LowPTest-1] SauceDemo1:94 - Snap of thank you page taken
+2024-03-03 12:01:48,978  INFO [TestNG-test=LowPTest-1] SauceDemo1:96 - Apply Verification
+2024-03-03 12:01:49,027  INFO [TestNG-test=LowPTest-1] SauceDemo1:105 - passed thank msg
+2024-03-03 12:01:49,157  INFO [TestNG-test=LowPTest-1] SauceDemo1:113 - Back to Home page
+2024-03-03 12:01:49,158  INFO [TestNG-test=LowPTest-1] SauceDemo1:115 - verify that we are back to home
+2024-03-03 12:01:49,170  INFO [TestNG-test=LowPTest-1] SauceDemo1:125 - passed back home page
+2024-03-03 12:01:49,574  INFO [TestNG-test=LowPTest-1] SauceDemo1:66 - browser is closed
+2024-03-03 12:01:49,574  INFO [TestNG-test=LowPTest-1] SauceDemo1:67 - End of Script
+2024-03-03 12:04:30,147  INFO [TestNG-test-HighPTest-1] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:04:30,147  INFO [TestNG-test-HighPTest-2] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:04:30,179  INFO [TestNG-test-HighPTest-3] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:04:30,179  INFO [TestNG-test-HighPTest-4] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:04:38,637  INFO [TestNG-test-HighPTest-1] SauceDemo1:53 - Url is opened
+2024-03-03 12:04:38,645  INFO [TestNG-test-HighPTest-4] SauceDemo1:53 - Url is opened
+2024-03-03 12:04:38,645  INFO [TestNG-test-HighPTest-2] SauceDemo1:53 - Url is opened
+2024-03-03 12:04:38,637  INFO [TestNG-test-HighPTest-3] SauceDemo1:53 - Url is opened
+2024-03-03 12:04:47,075  INFO [TestNG-test-HighPTest-1] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:04:47,076  INFO [TestNG-test-HighPTest-3] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:04:47,101  INFO [TestNG-test-HighPTest-4] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:04:47,148  INFO [TestNG-test-HighPTest-2] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:04:47,612  INFO [TestNG-test-HighPTest-3] SauceDemo1:18 - Usernme Entered
+2024-03-03 12:04:47,747  INFO [TestNG-test-HighPTest-4] SauceDemo1:20 - Usernme Entered
+2024-03-03 12:04:47,793  INFO [TestNG-test-HighPTest-2] SauceDemo1:23 - Usernme Entered
+2024-03-03 12:04:47,820  INFO [TestNG-test-HighPTest-1] SauceDemo1:20 - Usernme Entered
+2024-03-03 12:04:48,734  INFO [TestNG-test-HighPTest-3] SauceDemo1:23 - Password Entered
+2024-03-03 12:04:49,940  INFO [TestNG-test-HighPTest-4] SauceDemo1:25 - Password Entered
+2024-03-03 12:04:50,020  INFO [TestNG-test-HighPTest-3] SauceDemo1:28 - Clicked on login button
+2024-03-03 12:04:50,153  INFO [TestNG-test-HighPTest-2] SauceDemo1:28 - Password Entered
+2024-03-03 12:04:50,212  INFO [TestNG-test-HighPTest-1] SauceDemo1:25 - Password Entered
+2024-03-03 12:04:51,024  INFO [TestNG-test-HighPTest-3] SauceDemo1:31 - Went on homepage
+2024-03-03 12:04:51,195  INFO [TestNG-test-HighPTest-3] SauceDemo1:36 - Bag product is selected
+2024-03-03 12:04:51,294  INFO [TestNG-test-HighPTest-3] SauceDemo1:39 - Product added to cart
+2024-03-03 12:04:51,294  INFO [TestNG-test-HighPTest-3] SauceDemo1:41 - Apply validation
+2024-03-03 12:04:52,171  INFO [TestNG-test-HighPTest-4] SauceDemo1:30 - Clicked on login button
+2024-03-03 12:04:52,643  INFO [TestNG-test-HighPTest-2] SauceDemo1:33 - Clicked on login button
+2024-03-03 12:04:52,663  INFO [TestNG-test-HighPTest-1] SauceDemo1:30 - Clicked on login button
+2024-03-03 12:04:54,184  INFO [TestNG-test-HighPTest-4] SauceDemo1:33 - Went on homepage
+2024-03-03 12:04:54,655  INFO [TestNG-test-HighPTest-2] SauceDemo1:36 - Went on homepage
+2024-03-03 12:04:54,687  INFO [TestNG-test-HighPTest-1] SauceDemo1:33 - Went on homepage
+2024-03-03 12:04:55,424  INFO [TestNG-test-HighPTest-1] SauceDemo1:36 - Homepage ScreenShot Taken
+2024-03-03 12:04:55,424  INFO [TestNG-test-HighPTest-2] SauceDemo1:39 - Homepage ScreenShot Taken
+2024-03-03 12:04:55,425  INFO [TestNG-test-HighPTest-1] SauceDemo1:38 - Apply Validation
+2024-03-03 12:04:55,469  INFO [TestNG-test-HighPTest-4] SauceDemo1:37 - Multi product added to cart
+2024-03-03 12:04:55,520  INFO [TestNG-test-HighPTest-1] SauceDemo1:47 - Case Passed
+2024-03-03 12:04:55,875  INFO [TestNG-test-HighPTest-2] SauceDemo1:46 - bag product clicked
+2024-03-03 12:04:56,202  INFO [TestNG-test-HighPTest-3] SauceDemo1:66 - browser is closed
+2024-03-03 12:04:56,204  INFO [TestNG-test-HighPTest-3] SauceDemo1:67 - End of Script
+2024-03-03 12:04:57,315  INFO [TestNG-test-HighPTest-1] SauceDemo1:66 - browser is closed
+2024-03-03 12:04:57,315  INFO [TestNG-test-HighPTest-1] SauceDemo1:67 - End of Script
+2024-03-03 12:04:58,016  INFO [TestNG-test-HighPTest-2] SauceDemo1:50 - Product Page Snap Taken
+2024-03-03 12:04:58,017  INFO [TestNG-test-HighPTest-2] SauceDemo1:52 - Apply Verfication
+2024-03-03 12:04:58,046  INFO [TestNG-test-HighPTest-2] SauceDemo1:64 - TC02 is passed
+2024-03-03 12:04:58,279  INFO [TestNG-test-HighPTest-2] SauceDemo1:66 - browser is closed
+2024-03-03 12:04:58,279  INFO [TestNG-test-HighPTest-2] SauceDemo1:67 - End of Script
+2024-03-03 12:04:59,612  INFO [TestNG-test-HighPTest-4] SauceDemo1:42 - Clicked on cart button
+2024-03-03 12:04:59,734  INFO [TestNG-test-HighPTest-4] SauceDemo1:45 - ScreenShot of Cart taken
+2024-03-03 12:04:59,735  INFO [TestNG-test-HighPTest-4] SauceDemo1:46 - Apply Verification
+2024-03-03 12:05:01,204  INFO [TestNG-test-HighPTest-4] SauceDemo1:66 - browser is closed
+2024-03-03 12:05:01,204  INFO [TestNG-test-HighPTest-4] SauceDemo1:67 - End of Script
+2024-03-03 12:05:06,849  INFO [TestNG-test-LowPTest-3] SauceDemo1:33 - Browser is opened
+2024-03-03 12:05:06,875  INFO [TestNG-test-LowPTest-4] SauceDemo1:33 - Browser is opened
+2024-03-03 12:05:06,877  INFO [TestNG-test-LowPTest-2] SauceDemo1:33 - Browser is opened
+2024-03-03 12:05:06,998  INFO [TestNG-test-LowPTest-1] SauceDemo1:33 - Browser is opened
+2024-03-03 12:05:09,067  INFO [TestNG-test-LowPTest-3] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:05:09,168  INFO [TestNG-test-LowPTest-4] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:05:09,168  INFO [TestNG-test-LowPTest-2] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:05:09,215  INFO [TestNG-test-LowPTest-1] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:05:15,801  INFO [TestNG-test-LowPTest-3] SauceDemo1:53 - Url is opened
+2024-03-03 12:05:15,801  INFO [TestNG-test-LowPTest-1] SauceDemo1:53 - Url is opened
+2024-03-03 12:05:15,810  INFO [TestNG-test-LowPTest-4] SauceDemo1:53 - Url is opened
+2024-03-03 12:05:15,813  INFO [TestNG-test-LowPTest-2] SauceDemo1:53 - Url is opened
+2024-03-03 12:05:18,167  INFO [TestNG-test-LowPTest-2] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:05:18,176  INFO [TestNG-test-LowPTest-4] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:05:18,970  INFO [TestNG-test-LowPTest-1] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:05:18,972  INFO [TestNG-test-LowPTest-3] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:05:30,402  INFO [TestNG-test-LowPTest-3] SauceDemo1:20 - Usernme Entered
+2024-03-03 12:05:30,424  INFO [TestNG-test-LowPTest-4] SauceDemo1:17 - Usernme Entered
+2024-03-03 12:05:30,434  INFO [TestNG-test-LowPTest-2] SauceDemo1:18 - Usernme Entered
+2024-03-03 12:05:30,435  INFO [TestNG-test-LowPTest-1] SauceDemo1:24 - Usernme Entered
+2024-03-03 12:05:32,568  INFO [TestNG-test-LowPTest-3] SauceDemo1:25 - Password Entered
+2024-03-03 12:05:32,690  INFO [TestNG-test-LowPTest-4] SauceDemo1:22 - Password Entered
+2024-03-03 12:05:32,695  INFO [TestNG-test-LowPTest-1] SauceDemo1:29 - Password Entered
+2024-03-03 12:05:32,707  INFO [TestNG-test-LowPTest-2] SauceDemo1:23 - Password Entered
+2024-03-03 12:05:35,225  INFO [TestNG-test-LowPTest-1] SauceDemo1:34 - Clicked on login button
+2024-03-03 12:05:35,236  INFO [TestNG-test-LowPTest-3] SauceDemo1:30 - Clicked on login button
+2024-03-03 12:05:35,477  INFO [TestNG-test-LowPTest-4] SauceDemo1:27 - Clicked on login button
+2024-03-03 12:05:35,479  INFO [TestNG-test-LowPTest-2] SauceDemo1:28 - Clicked on login button
+2024-03-03 12:05:37,233  INFO [TestNG-test-LowPTest-1] SauceDemo1:37 - Went on homepage
+2024-03-03 12:05:37,249  INFO [TestNG-test-LowPTest-3] SauceDemo1:33 - Went on homepage
+2024-03-03 12:05:37,367  INFO [TestNG-test-LowPTest-1] SauceDemo1:45 - Clicked on Bag Product
+2024-03-03 12:05:37,404  INFO [TestNG-test-LowPTest-3] SauceDemo1:40 - Clicked on Menu Button
+2024-03-03 12:05:37,483  INFO [TestNG-test-LowPTest-4] SauceDemo1:30 - Went on homepage
+2024-03-03 12:05:37,483  INFO [TestNG-test-LowPTest-2] SauceDemo1:31 - Went on homepage
+2024-03-03 12:05:37,629  INFO [TestNG-test-LowPTest-4] SauceDemo1:37 - Clicked on Menu Button
+2024-03-03 12:05:38,028  INFO [TestNG-test-LowPTest-2] SauceDemo1:39 - Clicked on filter DropDown
+2024-03-03 12:05:38,082  INFO [TestNG-test-LowPTest-2] SauceDemo1:42 - Select the specific option
+2024-03-03 12:05:38,083  INFO [TestNG-test-LowPTest-2] SauceDemo1:45 - Apply verification
+2024-03-03 12:05:38,113  INFO [TestNG-test-LowPTest-2] SauceDemo1:54 - Passed
+2024-03-03 12:05:38,600  INFO [TestNG-test-LowPTest-2] SauceDemo1:66 - browser is closed
+2024-03-03 12:05:38,600  INFO [TestNG-test-LowPTest-2] SauceDemo1:67 - End of Script
+2024-03-03 12:05:39,452  INFO [TestNG-test-LowPTest-1] SauceDemo1:50 - Clicked on Add to cart button
+2024-03-03 12:05:39,714  INFO [TestNG-test-LowPTest-4] SauceDemo1:41 - clicked on logout Button
+2024-03-03 12:05:39,715  INFO [TestNG-test-LowPTest-4] SauceDemo1:43 - Apply verification
+2024-03-03 12:05:39,729  INFO [TestNG-test-LowPTest-4] SauceDemo1:52 - passed logout functionality
+2024-03-03 12:05:40,007  INFO [TestNG-test-LowPTest-4] SauceDemo1:66 - browser is closed
+2024-03-03 12:05:40,007  INFO [TestNG-test-LowPTest-4] SauceDemo1:67 - End of Script
+2024-03-03 12:05:41,542  INFO [TestNG-test-LowPTest-1] SauceDemo1:55 - Clicked on cart
+2024-03-03 12:05:43,830  INFO [TestNG-test-LowPTest-1] SauceDemo1:62 - Clicked on checkout button
+2024-03-03 12:05:46,732  INFO [TestNG-test-LowPTest-1] SauceDemo1:69 - FName Entered
+2024-03-03 12:05:48,897  INFO [TestNG-test-LowPTest-1] SauceDemo1:73 - LastName Entered
+2024-03-03 12:05:51,455  INFO [TestNG-test-LowPTest-1] SauceDemo1:77 - Postal code entered
+2024-03-03 12:05:54,393  INFO [TestNG-test-LowPTest-1] SauceDemo1:81 - Clicked on continue button
+2024-03-03 12:05:55,430  INFO [TestNG-test-LowPTest-3] SauceDemo1:44 - Clicked on About Button
+2024-03-03 12:05:56,998  INFO [TestNG-test-LowPTest-1] SauceDemo1:89 - Clicked on Finish Button
+2024-03-03 12:05:58,625  INFO [TestNG-test-LowPTest-3] SauceDemo1:48 - Snap of aboutpage is taken
+2024-03-03 12:05:58,626  INFO [TestNG-test-LowPTest-3] SauceDemo1:50 - Apply verification
+2024-03-03 12:05:59,599  INFO [TestNG-test-LowPTest-1] SauceDemo1:94 - Snap of thank you page taken
+2024-03-03 12:05:59,600  INFO [TestNG-test-LowPTest-1] SauceDemo1:96 - Apply Verification
+2024-03-03 12:05:59,748  INFO [TestNG-test-LowPTest-1] SauceDemo1:105 - passed thank msg
+2024-03-03 12:05:59,896  INFO [TestNG-test-LowPTest-1] SauceDemo1:113 - Back to Home page
+2024-03-03 12:05:59,897  INFO [TestNG-test-LowPTest-1] SauceDemo1:115 - verify that we are back to home
+2024-03-03 12:05:59,929  INFO [TestNG-test-LowPTest-1] SauceDemo1:125 - passed back home page
+2024-03-03 12:06:01,043  INFO [TestNG-test-LowPTest-1] SauceDemo1:66 - browser is closed
+2024-03-03 12:06:01,044  INFO [TestNG-test-LowPTest-1] SauceDemo1:67 - End of Script
+2024-03-03 12:06:01,046  INFO [TestNG-test-LowPTest-3] SauceDemo1:66 - browser is closed
+2024-03-03 12:06:01,046  INFO [TestNG-test-LowPTest-3] SauceDemo1:67 - End of Script
+2024-03-03 12:28:12,646  INFO [TestNG-test-HighPTest-4] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:28:12,652  INFO [TestNG-test-HighPTest-1] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:28:12,647  INFO [TestNG-test-HighPTest-3] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:28:12,768  INFO [TestNG-test-HighPTest-2] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:28:17,032  INFO [TestNG-test-HighPTest-4] SauceDemo1:53 - Url is opened
+2024-03-03 12:28:17,042  INFO [TestNG-test-HighPTest-2] SauceDemo1:53 - Url is opened
+2024-03-03 12:28:17,045  INFO [TestNG-test-HighPTest-3] SauceDemo1:53 - Url is opened
+2024-03-03 12:28:17,053  INFO [TestNG-test-HighPTest-1] SauceDemo1:53 - Url is opened
+2024-03-03 12:28:20,245  INFO [TestNG-test-HighPTest-3] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:28:20,245  INFO [TestNG-test-HighPTest-1] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:28:20,245  INFO [TestNG-test-HighPTest-2] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:28:20,246  INFO [TestNG-test-HighPTest-4] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:28:20,625  INFO [TestNG-test-HighPTest-1] SauceDemo1:20 - Usernme Entered
+2024-03-03 12:28:20,637  INFO [TestNG-test-HighPTest-3] SauceDemo1:18 - Usernme Entered
+2024-03-03 12:28:20,637  INFO [TestNG-test-HighPTest-2] SauceDemo1:23 - Usernme Entered
+2024-03-03 12:28:20,638  INFO [TestNG-test-HighPTest-4] SauceDemo1:20 - Usernme Entered
+2024-03-03 12:28:21,836  INFO [TestNG-test-HighPTest-3] SauceDemo1:23 - Password Entered
+2024-03-03 12:28:22,825  INFO [TestNG-test-HighPTest-4] SauceDemo1:25 - Password Entered
+2024-03-03 12:28:22,828  INFO [TestNG-test-HighPTest-2] SauceDemo1:28 - Password Entered
+2024-03-03 12:28:22,850  INFO [TestNG-test-HighPTest-1] SauceDemo1:25 - Password Entered
+2024-03-03 12:28:23,037  INFO [TestNG-test-HighPTest-3] SauceDemo1:28 - Clicked on login button
+2024-03-03 12:28:24,041  INFO [TestNG-test-HighPTest-3] SauceDemo1:31 - Went on homepage
+2024-03-03 12:28:24,227  INFO [TestNG-test-HighPTest-3] SauceDemo1:36 - Bag product is selected
+2024-03-03 12:28:24,320  INFO [TestNG-test-HighPTest-3] SauceDemo1:39 - Product added to cart
+2024-03-03 12:28:24,321  INFO [TestNG-test-HighPTest-3] SauceDemo1:41 - Apply validation
+2024-03-03 12:28:25,233  INFO [TestNG-test-HighPTest-4] SauceDemo1:30 - Clicked on login button
+2024-03-03 12:28:25,244  INFO [TestNG-test-HighPTest-2] SauceDemo1:33 - Clicked on login button
+2024-03-03 12:28:25,256  INFO [TestNG-test-HighPTest-3] SauceDemo1:66 - browser is closed
+2024-03-03 12:28:25,257  INFO [TestNG-test-HighPTest-3] SauceDemo1:67 - End of Script
+2024-03-03 12:28:25,542  INFO [TestNG-test-HighPTest-1] SauceDemo1:30 - Clicked on login button
+2024-03-03 12:28:27,240  INFO [TestNG-test-HighPTest-4] SauceDemo1:33 - Went on homepage
+2024-03-03 12:28:27,255  INFO [TestNG-test-HighPTest-2] SauceDemo1:36 - Went on homepage
+2024-03-03 12:28:27,554  INFO [TestNG-test-HighPTest-1] SauceDemo1:33 - Went on homepage
+2024-03-03 12:28:27,580  INFO [TestNG-test-HighPTest-2] SauceDemo1:39 - Homepage ScreenShot Taken
+2024-03-03 12:28:27,688  INFO [TestNG-test-HighPTest-4] SauceDemo1:37 - Multi product added to cart
+2024-03-03 12:28:27,784  INFO [TestNG-test-HighPTest-1] SauceDemo1:36 - Homepage ScreenShot Taken
+2024-03-03 12:28:27,785  INFO [TestNG-test-HighPTest-1] SauceDemo1:38 - Apply Validation
+2024-03-03 12:28:27,818  INFO [TestNG-test-HighPTest-2] SauceDemo1:46 - bag product clicked
+2024-03-03 12:28:27,829  INFO [TestNG-test-HighPTest-1] SauceDemo1:47 - Case Passed
+2024-03-03 12:28:28,258  INFO [TestNG-test-HighPTest-1] SauceDemo1:66 - browser is closed
+2024-03-03 12:28:28,259  INFO [TestNG-test-HighPTest-1] SauceDemo1:67 - End of Script
+2024-03-03 12:28:29,951  INFO [TestNG-test-HighPTest-2] SauceDemo1:50 - Product Page Snap Taken
+2024-03-03 12:28:29,951  INFO [TestNG-test-HighPTest-2] SauceDemo1:52 - Apply Verfication
+2024-03-03 12:28:29,987  INFO [TestNG-test-HighPTest-2] SauceDemo1:64 - TC02 is passed
+2024-03-03 12:28:30,312  INFO [TestNG-test-HighPTest-2] SauceDemo1:66 - browser is closed
+2024-03-03 12:28:30,313  INFO [TestNG-test-HighPTest-2] SauceDemo1:67 - End of Script
+2024-03-03 12:28:31,772  INFO [TestNG-test-HighPTest-4] SauceDemo1:42 - Clicked on cart button
+2024-03-03 12:28:31,927  INFO [TestNG-test-HighPTest-4] SauceDemo1:45 - ScreenShot of Cart taken
+2024-03-03 12:28:31,928  INFO [TestNG-test-HighPTest-4] SauceDemo1:46 - Apply Verification
+2024-03-03 12:28:32,259  INFO [TestNG-test-HighPTest-4] SauceDemo1:66 - browser is closed
+2024-03-03 12:28:32,260  INFO [TestNG-test-HighPTest-4] SauceDemo1:67 - End of Script
+2024-03-03 12:28:36,954  INFO [TestNG-test-LowPTest-4] SauceDemo1:33 - Browser is opened
+2024-03-03 12:28:37,216  INFO [TestNG-test-LowPTest-2] SauceDemo1:33 - Browser is opened
+2024-03-03 12:28:37,283  INFO [TestNG-test-LowPTest-1] SauceDemo1:33 - Browser is opened
+2024-03-03 12:28:37,296  INFO [TestNG-test-LowPTest-3] SauceDemo1:33 - Browser is opened
+2024-03-03 12:28:39,099  INFO [TestNG-test-LowPTest-4] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:28:39,367  INFO [TestNG-test-LowPTest-2] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:28:39,445  INFO [TestNG-test-LowPTest-3] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:28:39,445  INFO [TestNG-test-LowPTest-1] SauceDemo1:48 - Browser is maximized
+2024-03-03 12:28:44,716  INFO [TestNG-test-LowPTest-4] SauceDemo1:53 - Url is opened
+2024-03-03 12:28:44,718  INFO [TestNG-test-LowPTest-3] SauceDemo1:53 - Url is opened
+2024-03-03 12:28:44,719  INFO [TestNG-test-LowPTest-2] SauceDemo1:53 - Url is opened
+2024-03-03 12:28:44,721  INFO [TestNG-test-LowPTest-1] SauceDemo1:53 - Url is opened
+2024-03-03 12:28:49,323  INFO [TestNG-test-LowPTest-1] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:28:49,323  INFO [TestNG-test-LowPTest-3] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:28:49,341  INFO [TestNG-test-LowPTest-2] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:28:49,500  INFO [TestNG-test-LowPTest-4] SauceDemo1:56 - Loginpage snap taken
+2024-03-03 12:28:52,302  INFO [TestNG-test-LowPTest-1] SauceDemo1:24 - Usernme Entered
+2024-03-03 12:28:52,480  INFO [TestNG-test-LowPTest-3] SauceDemo1:20 - Usernme Entered
+2024-03-03 12:28:52,492  INFO [TestNG-test-LowPTest-4] SauceDemo1:17 - Usernme Entered
+2024-03-03 12:28:52,570  INFO [TestNG-test-LowPTest-2] SauceDemo1:18 - Usernme Entered
+2024-03-03 12:28:54,399  INFO [TestNG-test-LowPTest-1] SauceDemo1:29 - Password Entered
+2024-03-03 12:28:54,601  INFO [TestNG-test-LowPTest-4] SauceDemo1:22 - Password Entered
+2024-03-03 12:28:54,885  INFO [TestNG-test-LowPTest-2] SauceDemo1:23 - Password Entered
+2024-03-03 12:28:54,968  INFO [TestNG-test-LowPTest-3] SauceDemo1:25 - Password Entered
+2024-03-03 12:28:56,793  INFO [TestNG-test-LowPTest-1] SauceDemo1:34 - Clicked on login button
+2024-03-03 12:28:56,923  INFO [TestNG-test-LowPTest-4] SauceDemo1:27 - Clicked on login button
+2024-03-03 12:28:57,049  INFO [TestNG-test-LowPTest-2] SauceDemo1:28 - Clicked on login button
+2024-03-03 12:28:57,348  INFO [TestNG-test-LowPTest-3] SauceDemo1:30 - Clicked on login button
+2024-03-03 12:28:58,800  INFO [TestNG-test-LowPTest-1] SauceDemo1:37 - Went on homepage
+2024-03-03 12:28:58,924  INFO [TestNG-test-LowPTest-4] SauceDemo1:30 - Went on homepage
+2024-03-03 12:28:59,050  INFO [TestNG-test-LowPTest-2] SauceDemo1:31 - Went on homepage
+2024-03-03 12:28:59,350  INFO [TestNG-test-LowPTest-3] SauceDemo1:33 - Went on homepage
+2024-03-03 12:29:00,899  INFO [TestNG-test-LowPTest-4] SauceDemo1:37 - Clicked on Menu Button
+2024-03-03 12:29:00,901  INFO [TestNG-test-LowPTest-3] SauceDemo1:40 - Clicked on Menu Button
+2024-03-03 12:29:01,057  INFO [TestNG-test-LowPTest-1] SauceDemo1:45 - Clicked on Bag Product
+2024-03-03 12:29:02,822  INFO [TestNG-test-LowPTest-2] SauceDemo1:39 - Clicked on filter DropDown
+2024-03-03 12:29:03,012  INFO [TestNG-test-LowPTest-2] SauceDemo1:42 - Select the specific option
+2024-03-03 12:29:03,012  INFO [TestNG-test-LowPTest-2] SauceDemo1:45 - Apply verification
+2024-03-03 12:29:03,112  INFO [TestNG-test-LowPTest-2] SauceDemo1:54 - Passed
+2024-03-03 12:29:03,231  INFO [TestNG-test-LowPTest-4] SauceDemo1:41 - clicked on logout Button
+2024-03-03 12:29:03,232  INFO [TestNG-test-LowPTest-4] SauceDemo1:43 - Apply verification
+2024-03-03 12:29:03,266  INFO [TestNG-test-LowPTest-4] SauceDemo1:52 - passed logout functionality
+2024-03-03 12:29:03,539  INFO [TestNG-test-LowPTest-1] SauceDemo1:50 - Clicked on Add to cart button
+2024-03-03 12:29:07,719  INFO [TestNG-test-LowPTest-1] SauceDemo1:55 - Clicked on cart
+2024-03-03 12:29:08,553  INFO [TestNG-test-LowPTest-3] SauceDemo1:44 - Clicked on About Button
+2024-03-03 12:29:10,209  INFO [TestNG-test-LowPTest-1] SauceDemo1:62 - Clicked on checkout button
+2024-03-03 12:29:13,092  INFO [TestNG-test-LowPTest-1] SauceDemo1:69 - FName Entered
+2024-03-03 12:29:15,474  INFO [TestNG-test-LowPTest-1] SauceDemo1:73 - LastName Entered
+2024-03-03 12:29:17,771  INFO [TestNG-test-LowPTest-1] SauceDemo1:77 - Postal code entered
+2024-03-03 12:29:21,284  INFO [TestNG-test-LowPTest-1] SauceDemo1:81 - Clicked on continue button
+2024-03-03 12:29:24,265  INFO [TestNG-test-LowPTest-1] SauceDemo1:89 - Clicked on Finish Button
+2024-03-03 12:29:24,767  INFO [TestNG-test-LowPTest-3] SauceDemo1:48 - Snap of aboutpage is taken
+2024-03-03 12:29:24,767  INFO [TestNG-test-LowPTest-3] SauceDemo1:50 - Apply verification
+2024-03-03 12:29:25,517  INFO [TestNG-test-LowPTest-2] SauceDemo1:66 - browser is closed
+2024-03-03 12:29:25,518  INFO [TestNG-test-LowPTest-2] SauceDemo1:67 - End of Script
+2024-03-03 12:29:25,518  INFO [TestNG-test-LowPTest-4] SauceDemo1:66 - browser is closed
+2024-03-03 12:29:25,522  INFO [TestNG-test-LowPTest-4] SauceDemo1:67 - End of Script
+2024-03-03 12:29:27,531  INFO [TestNG-test-LowPTest-1] SauceDemo1:94 - Snap of thank you page taken
+2024-03-03 12:29:27,532  INFO [TestNG-test-LowPTest-1] SauceDemo1:96 - Apply Verification
+2024-03-03 12:29:27,896  INFO [TestNG-test-LowPTest-1] SauceDemo1:105 - passed thank msg
+2024-03-03 12:29:28,047  INFO [TestNG-test-LowPTest-1] SauceDemo1:113 - Back to Home page
+2024-03-03 12:29:28,048  INFO [TestNG-test-LowPTest-1] SauceDemo1:115 - verify that we are back to home
+2024-03-03 12:29:28,218  INFO [TestNG-test-LowPTest-1] SauceDemo1:125 - passed back home page
+2024-03-03 12:29:31,686  INFO [TestNG-test-LowPTest-1] SauceDemo1:66 - browser is closed
+2024-03-03 12:29:31,687  INFO [TestNG-test-LowPTest-1] SauceDemo1:67 - End of Script
+2024-03-03 12:29:32,109  INFO [TestNG-test-LowPTest-3] SauceDemo1:66 - browser is closed
+2024-03-03 12:29:32,109  INFO [TestNG-test-LowPTest-3] SauceDemo1:67 - End of Script
